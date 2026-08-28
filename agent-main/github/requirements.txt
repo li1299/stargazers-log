@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-ollama
+openai
+faiss-cpu
+python-dotenv==1.0.1
+requests==2.31.0
+python-magic-bin==0.4.14 ; platform_system == "Windows"
+unstructured==0.10.30
+typing-extensions
+jieba==0.42.1
+scikit-learn
+scipy
